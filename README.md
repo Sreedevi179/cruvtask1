@@ -1,8 +1,6 @@
 # cruvtask1
 
-Train Seats
-
-## Getting Started
+#Train Seats
 
 There are five different types of berths available on Indian trains: Lower, Middle, Upper, Side Lower, and Side Upper.
 It is buil using gridview builder, there is 4 columns and 8 rows and 5 types of seats. 
