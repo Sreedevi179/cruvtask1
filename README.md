@@ -1,16 +1,10 @@
 # cruvtask1
 
-A new Flutter project.
+Train Seats
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+There are five different types of berths available on Indian trains: Lower, Middle, Upper, Side Lower, and Side Upper.
+It is buil using gridview builder, there is 4 columns and 8 rows and 5 types of seats. 
+User can search a seat number and that particular seat number color changes(both containera and text).
+When we click on a seat, a popup screen will apprear and that contains details of that seat(berth type, seat number).
